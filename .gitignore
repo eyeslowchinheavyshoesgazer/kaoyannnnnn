@@ -1,0 +1,17 @@
+# macOS 系统文件
+.DS_Store
+
+# Obsidian 工作区配置
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Office 临时文件
+~$*
+
+~$每日学习时长记录.xlsx
+数一/27张宇1000题/
+数一/27张宇1000题本/
+408/2027操作系统.pdf
+408/2027计算机组成原理_高清带书签版.pdf
+408/2027计算机网络_高清带书签版.pdf
+408/2027数据结构_高清带书签版.pdf
